@@ -1,0 +1,155 @@
+body {
+    background: url('2.jpg') no-repeat fixed center;
+    background-size: cover;
+}
+@font-face {
+    font-family: "lol";
+    src: url('CATON_CANDIES.ttf');
+}
+@font-face {
+    font-family: "lel";
+    src: url('magic.ttf');
+}
+@font-face {
+    font-family: "lal";
+    src: url('Cream.ttf');
+}
+.topstart {
+    background-color: rgb(252, 190, 109, 0.6);
+    font-family: "lol";
+    margin-left: 5cm;
+    width: 43%;
+    height: auto;
+    display: flex;
+    box-shadow: inset 0px 0px 5px white;
+}
+.topstart1 {
+    background-color: rgb(252, 190, 109, 0.6);
+    font-family: "lol";
+    margin-left: 5cm;
+    width: 43%;
+    height: auto;
+    box-shadow: inset 0px 0px 5px white;
+    
+}
+.mdfk {
+    margin-left: 1cm;
+    margin-top: 1cm;
+
+}    
+.toph3 {
+    padding-top: 30px;
+    margin-left: 10px;
+}
+.hover {
+    width: 100%;
+    color: chocolate;
+    text-align: left;
+    margin-left: 5cm;
+}
+.hover2 {
+    width: 50%;
+    color: chocolate;
+    text-align: left;
+    margin-left: 5cm;
+    position: relative;
+    bottom: 24px;
+    
+}
+.judul {
+    text-align: center;
+    text-shadow: chocolate 0 7px 7px;
+}
+.hello {
+    text-align: center;
+    padding-top: 10px;
+}
+.topstart1 p {
+    text-align: center;
+}
+.topstart1 h3 {
+    font-family: "lel";
+    text-align: center;
+}
+a :hover {
+    color: purple;
+    background:-moz-repeating-linear-gradient(deepskyblue, chartreuse)no-repeat ;
+    font-family: "lol";
+}
+.startdiv1 {
+    font-family: "lel";
+    text-align: center;
+}
+.contact {
+    font-size: 20px;
+    color: rgb(184, 58, 0);
+    
+}
+.flex {
+    display: flex;
+}
+.topright {
+    margin-left: 0px;
+    margin-right: 4cm;
+}
+.link {
+    font-family: "lel";
+    margin-top: 105px;
+    margin-left:-6cm ;
+}
+.link a {
+    color: chocolate;
+    margin-left: 50px;
+}
+.gambar {
+    margin-left: -5cm;
+    position: relative;
+    bottom: 24px;
+}
+.link a:hover {
+    color: blueviolet;
+    background-color: rgba(247, 206, 152, 0.6);
+    
+}
+.block {
+    width: 230px;
+    height: 100px;
+    margin-left: -3cm;
+    margin-top: -20px;
+    margin-top: 5px;
+    font-family: "lol";
+    box-shadow: inset 0px 0px 5px white;
+    background-color: rgb(252, 190, 109, 0.6);
+    animation: nls 4s ease infinite alternate-reverse running;
+}    
+
+@keyframes nls {
+
+   0% {
+       width: 230px;
+   }
+   100% {
+       width: 230px;
+       height: 3900px;
+   }
+}
+.block h3 {
+    padding-top: 20px;
+    text-align: left;
+}
+.nls {
+    font-family: "lol";
+    font-size: 100px;
+    text-align: center;
+    color: chocolate;
+    margin-top: -100px;
+    overflow: hidden;
+
+}          
+iframe {
+    border: 1;
+    border-color: chocolate;
+    background: url('wallpaperflare.com_wallpaper-1.jpg')no-repeat fixed center center;
+    color: chocolate;
+    box-shadow: inset 0px 0px 1000px rgba(255, 194, 125, 0.6);
+}
